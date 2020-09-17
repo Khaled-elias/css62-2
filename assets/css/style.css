@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+body{
+    background: url(http://www.supah.it/dribbble/008/008.jpg) center/cover no-repeat;
+    
+    height: 100%;
+}
+
+nav{
+    text-align: center;
+  color: #565c73;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+h1{
+    font-size: 250px;
+    text-align: center;
+    color: #CDD4DE;
+    margin: 250px 250px 20px;
+    
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: #CDD4DE;
+ 
+    
+}
+h3{
+    text-align: center;
+    color: #CDD4DE;
+    
+}
+footer{
+    text-align: center;
+    margin-top: 250px;
+    
+    
+}
+a{
+    color: #CDD4DE;
+    border: 1px solid #CDD4DE;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+
+
+}
+a:hover{
+    background: #565c73;
+}
