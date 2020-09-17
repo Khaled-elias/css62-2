@@ -52,4 +52,5 @@ a{
 }
 a:hover{
     background: #565c73;
+    color: red;
 }
